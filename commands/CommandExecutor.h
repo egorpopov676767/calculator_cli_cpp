@@ -2,5 +2,5 @@
 
 class CommandExecutor {
 public:
-    static int tryExecute(char **command);
+    static double tryExecute(int argc, char **command);
 };
