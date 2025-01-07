@@ -1,3 +1,0 @@
-C:/Users/egorp/CLionProjects/calculator_cli_cpp/cmake-build-debug/CMakeFiles/calculator_cli_cpp.dir
-C:/Users/egorp/CLionProjects/calculator_cli_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/egorp/CLionProjects/calculator_cli_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
