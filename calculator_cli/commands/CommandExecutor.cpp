@@ -1,6 +1,6 @@
 #include "CommandExecutor.h"
-
 #include <string>
+#include "../operations/OperationsList.h"
 
 using std::stoi;
 using std::stod;
