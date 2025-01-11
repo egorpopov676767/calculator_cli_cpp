@@ -1,13 +1,10 @@
 #pragma once
-#include "operation.h"
-#include "binary/operations/AddOperation.h"
+#include <vector>
+#include "Operation.h"
 
 class OperationsList {
 public:
-    static Operation* operations={&AddOperation()};
+    static const std::vector<Operation *> operations;
 
+    OperationsList() = delete;
 };
-
-
-
-
