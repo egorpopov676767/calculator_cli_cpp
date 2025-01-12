@@ -38,7 +38,7 @@ Command::Command(const int argc, const char **args) {
         try {
             values[i] = std::stod(args[i + 1]);
         } catch (std::invalid_argument &) {
-            throw std::invalid_argument(std::format("invalid argument: {0}", args[i]));
+            throw std::invalid_argument(std::format("invalid argument: {0}", args[i + 1]));
         }
     }
 }
